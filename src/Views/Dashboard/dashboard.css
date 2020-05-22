@@ -1,0 +1,25 @@
+.table-header{
+    background-color: lightslategray;
+    color: white;
+    font-weight: bold;
+}
+
+.dashboard-div{
+    margin-top: 5%;
+}
+
+.dashboard-header{
+    background-color: rgba(105, 105, 105, 0.459);
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+}
+
+.logout{
+    float: right;
+    font-size: 15px;
+    padding-top: 5px;
+    color: blue;
+    cursor: pointer;
+}
